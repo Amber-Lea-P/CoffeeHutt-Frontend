@@ -1,0 +1,1 @@
+He wants to create pretty looking FeaturedProducts.md file with a selected subset of products, descriptions and their prices. He wants to promote specific products listed in this file on a daily basis. He needs to maintain this file for every weekday and yet have access to the versions of the previously created file.
